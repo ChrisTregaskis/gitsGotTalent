@@ -1,0 +1,25 @@
+$heroColor: #f39c12;
+
+body {
+  background-color: $heroColor;
+}
+
+.stat-box {
+  background-color: azure;
+  border-radius: 3px;
+  height: 250px;
+  margin: 0 auto;
+}
+
+.stat-box h2 {
+  padding-top: 20px;
+}
+
+.title {
+  color: azure;
+}
+
+.title h1,
+.title p {
+  margin: 0;
+}
